@@ -30,3 +30,8 @@ Start the server
   make up
 ```
 
+
+## Demo in Figma
+
+https://www.figma.com/file/9CyiwhcijM929zIUBRQKMS/Ghost_Flutter?type=design&node-id=8%3A72&mode=design&t=s0SJgCWlv5Cf7G8J-1
+
