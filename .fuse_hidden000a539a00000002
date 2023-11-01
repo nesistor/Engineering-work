@@ -1,0 +1,38 @@
+
+# Mgnetic Field Anomaly Detector
+
+This project is designed to transfer words to a graph that will be used by the sensor and then download the graph and convert them into speech.
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://link-to-project
+```
+
+Go to the project directory
+
+```bash
+  cd Ghost_Flutter
+```
+
+Install Flutter and
+
+```bash
+  flutter run
+```
+
+Start the server
+
+```bash
+  make up
+```
+
+
+## Documentation
+
+[Generating Natural Language Descriptions for Charts by
+Adapting the Transformer Model](https://aclanthology.org/2020.inlg-1.20.pdf)
+
