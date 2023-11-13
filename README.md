@@ -1,7 +1,7 @@
 
-# Mgnetic Field Anomaly Detector
+# Engineering wokr
 
-This project is designed to transfer words to a graph that will be used by the sensor and then download the graph and convert them into speech.
+
 
 
 ## Run Locally
